@@ -1,0 +1,125 @@
+#build,#build2 {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    
+    
+}
+body{
+    margin:0;
+    padding:0;
+}
+#build2{
+    top: 0%;
+}
+
+#logo {
+    
+    
+        height: 48px;
+        width: 90px;
+    
+  
+    
+
+    
+  
+}
+#login{
+    
+    width: 75px;
+    height: 35px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding-top: 14px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+
+.dropdown-wrap{
+    position:absolute;
+    top:12%;
+    right:1.5%;
+    width: 280px;
+}
+
+.dropdown{
+    background-color:rgba(255, 255, 255, .9) ;
+    width: 295px;
+    right: 10px;
+    
+    
+}
+
+#icon1{
+    height:22px
+}
+
+.menu{
+    right:10%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border:2px ;
+    width:320px;
+}
+
+#icon2{
+    height:22px;
+}
+
+#font{
+    font-size: 12.5px;
+    color: rgb(73, 124, 182);
+    padding-bottom: 17px;
+}
+#guest{
+    margin-left: 70px;
+    
+}
+
+
+.fa{
+    color: gray;
+    
+    
+      width: 18px;
+      padding: 4px;
+
+}
+
+.fa-solid{
+    color:gray;
+    width: 18px;
+    padding: 4px;
+
+    
+}
+
+#username,#password{
+    
+    font-size: 20.8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 200px;
+}
+
+#icon3{
+    width:50px;
+    height:28px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+
+
+
+
+
